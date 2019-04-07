@@ -1,0 +1,6 @@
+F:\Anul4\New folder\Lab1RIW\Dir1\File1.txt,F:\Anul4\New folder\Lab1RIW\Dir1\index.html
+F:\Anul4\New folder\Lab1RIW\Dir1\File2.txt,F:\Anul4\New folder\Lab1RIW\Dir1\index.html
+F:\Anul4\New folder\Lab1RIW\Dir1\Dir2\File4.txt,F:\Anul4\New folder\Lab1RIW\Dir1\Dir2\index.html
+F:\Anul4\New folder\Lab1RIW\Dir1\Dir2\File5.txt,F:\Anul4\New folder\Lab1RIW\Dir1\Dir2\index.html
+F:\Anul4\New folder\Lab1RIW\Dir1\Dir2\Dir3\File5.txt,F:\Anul4\New folder\Lab1RIW\Dir1\Dir2\Dir3\index.html
+F:\Anul4\New folder\Lab1RIW\Dir1\Dir2\Dir3\File6.txt,F:\Anul4\New folder\Lab1RIW\Dir1\Dir2\Dir3\index.html
